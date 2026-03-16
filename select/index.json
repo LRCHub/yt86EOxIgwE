@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "Street Carp",
+  "base_artist": "Deftones",
+  "createdAt": "2026-03-16T05:19:04.661727Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Street Carp",
+      "artist": "Deftones",
+      "has_synced": true,
+      "path": "select/01_Street_Carp_Deftones.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Street Carp (Phantogram Remix)",
+      "artist": "Deftones",
+      "has_synced": true,
+      "path": "select/02_Street_Carp_(Phantogram_Remix)_Deftones.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Street Carp (LP Version)",
+      "artist": "Deftones",
+      "has_synced": true,
+      "path": "select/03_Street_Carp_(LP_Version)_Deftones.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Street Carp",
+      "artist": "Deftones",
+      "has_synced": true,
+      "path": "select/04_Street_Carp_Deftones.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Deftones – Street Carp (Official Visualizer)",
+      "artist": "Deftones",
+      "has_synced": true,
+      "path": "select/05_Deftones_–_Street_Carp_(Official_Visualizer)_Deftones.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Street Carp",
+      "artist": "Deftones",
+      "has_synced": true,
+      "path": "select/06_Street_Carp_Deftones.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Street Carp",
+      "artist": "Deftones",
+      "has_synced": false,
+      "path": "select/pl_01_Street_Carp_Deftones.txt"
+    }
+  ]
+}
